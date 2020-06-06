@@ -1,0 +1,74 @@
+@font-face{
+    font-family: font1;
+    src: url(fonts/FredokaOne-Regular.ttf);
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: rgb(44, 29, 29);
+    font-size: auto;
+    font-family: font1;
+    background-color: sandybrown;
+}
+.container2{
+    position: relative;
+    text-align: center;
+    color: rgb(44, 29, 29);
+    font-size: auto;
+    font-family: font1;
+    background-color: sandybrown;
+}
+.container3{
+    position: relative;
+    text-align: center;
+    color: rgb(44, 29, 29);
+    font-size: auto;
+    font-family: font1;
+    background-color: sandybrown;
+}
+.container4{
+    position: relative;
+    text-align: center;
+    color: rgb(44, 29, 29);
+    font-size: auto;
+    font-family: font1;
+    background-color: sandybrown;
+}
+.container5{
+    position: relative;
+    text-align: center;
+    color: rgb(44, 29, 29);
+    font-size: auto;
+    font-family: font1;
+    background-color: sandybrown;
+}
+#img2{
+    width: 100%;
+    height: auto;
+
+}
+#img3{
+    width: 100%;
+    height: auto;
+}
+#img4{
+    width: 100%;
+  height: auto;
+}
+#img5{
+  width: 100%;
+  height: auto;
+}
+#img6{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: font1;
+    background-color:sandybrown;
+    font-size: 40px;
+}
+ 

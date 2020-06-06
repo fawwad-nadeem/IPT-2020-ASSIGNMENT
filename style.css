@@ -1,0 +1,49 @@
+@font-face{
+    font-family: font3;
+    src: url(fonts/FredokaOne-Regular.ttf);
+}
+.img2{
+    width: 100%;
+    height: auto;
+}
+.img3{
+    width: 100%;
+    height: auto;
+}
+h1{
+    font-family: font3;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+}
+.nav-item > li{   
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 50px;
+    color:  rgb(42, 42, 83);
+    font-family: font3;
+}
+.nav-item a:hover{
+    text-decoration: underline;
+    text-decoration-color: crimson;
+}
+#social a{
+    padding: 5px;
+}
+#social{
+    background-color: darkslategrey;
+    font-family: font3;
+    font-size: 50px;
+}
+.connection{
+    width: auto;
+    height: auto;
+}
+#connect{
+    font-family: font3;
+    font-size: 40px;
+}
+#design{
+    background-color: sandybrown;
+}

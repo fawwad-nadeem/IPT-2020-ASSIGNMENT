@@ -1,0 +1,43 @@
+@font-face{
+    font-family: font1;
+    src: url(fonts/FredokaOne-Regular.ttf);
+}
+h2{
+    font-family: font1;
+    text-align: center;
+}
+p{
+    font-family: font1;
+    border-spacing: 2px;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 8px;
+    font-size: auto;
+}
+#sec1{
+    background-color: whitesmoke;
+}
+#img1{
+    width: auto;
+}
+#details{
+    background-color: sandybrown;
+    width: 100%;
+    height: auto;
+}
+#img3{
+    width: 50%;
+    align-items: center;
+    padding-left: 30%;
+
+}
+h2{
+    font-size: 35px;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: font1;
+    font-size: 40;
+}

@@ -1,0 +1,75 @@
+@font-face{
+    font-family: font1;
+    src: url(fonts/FredokaOne-Regular.ttf);
+}
+*{
+    font-family: font1;
+}
+h1{  
+    text-align: center;
+    text-decoration: underline;
+    font-family: font1;
+    font-size: 40;
+}
+.div1{
+    background-color: sandybrown;
+}
+#img1{
+    background-color: whitesmoke;
+}
+#logo1{
+    width:20%;
+    height: 20%;
+}
+#logo10{
+    width: 100%;
+    height: 100%;
+}
+#logo5{
+    width:20%;
+    height: 20%;
+}
+#logo50{
+    width: 100%;
+    height: 100%;
+}
+#logo2{
+    width:20%;
+    height: 10%;
+}
+#logo20{
+    width: 100%;
+    height: 100%;
+}
+#logo3{
+    width:20%;
+    height: 20%;
+}
+#logo30{
+    width: 100%;
+    height: 100%;
+}
+#logo4{
+    width:20%;
+    height: 20%;
+}
+#logo40{
+    width: 100%;
+    height: 100%;
+}
+#logo6{
+    width:20%;
+    height: 20%;
+}
+#log60{
+    width: 100%;
+    height: 100%;
+}
+#logo7{
+    width:20%;
+    height: 20%;
+}
+#log70{
+    width: 100%;
+    height: 100%;
+}

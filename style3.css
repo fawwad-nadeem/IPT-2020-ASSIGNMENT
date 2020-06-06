@@ -1,0 +1,32 @@
+@font-face{
+    font-family: font1;
+    src: url(fonts/FredokaOne-Regular.ttf);
+}
+*{
+    font-family: font1;
+    font-size: auto;
+    color: color rgb(42, 42, 83);
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+    padding-bottom: 5%;
+}
+#l1{
+    text-align: left;
+    padding-right: 2%;
+}
+form{
+    padding-right: 2%;
+    background-color: sandybrown;
+    align-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#sec1{
+    background-color: whitesmoke;
+}
+h3{
+    background-color: darkslategray;
+    text-align: center;
+}
